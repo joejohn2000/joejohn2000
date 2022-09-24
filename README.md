@@ -8,8 +8,9 @@
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
-  dd
-   
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,c,cpp,python,git" />
+  </a>
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
