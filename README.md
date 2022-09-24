@@ -19,21 +19,26 @@
 - :rocket: Always ready to collaborate with a team for WebDev Experiments
 - :zap:  I love Meetups for learning & Conferences <br>
 
-<h2 align="left">:heart: Let's get connected:</h2>
 
- <a href="https://www.instagram.com/joe.john_/">
- <img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" />
+
+
+<h2 align="left">:heart: Let's get connected:</h2>
+<p align="left">
+  <a href="https://www.instagram.com/joe.john_/">
+ <img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"height="50px" width="50px"/>
 </a>
   <a href="mailto:joejohnparakka@gmail.com">
- <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/>
+ <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"height="50px" width="50px"/>
 </a>
 
 <a href="https://discord.com/users/338576028731703296"/>
-<img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/>
+<img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"height="50px" width="50px"/>
 </a>
   <a href="https://www.facebook.com/joe.john.547389">
- <img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/>
+ <img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"height="50px" width="50px"/>
 </a>
  <a href="tel:+919633535790">
- <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="facebook"/>
+ <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="facebook" height="50px" width="50px"/>
 </a>
+</p>
+
