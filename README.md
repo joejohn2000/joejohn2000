@@ -20,9 +20,16 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-<a href="https://www.instagram.com/joe.john_/">
-  <img src=""https://img.icons8.com/color/96/000000/gmail.png"" alt="instagram" title="instagram" width="25" height="25" />
-</a>
  <a href="https://www.instagram.com/joe.john_/">
- <img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" title="instagram" width="30" height="30"/>
+ <img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" />
+</a>
+  <a href="mailto:joejohnparakka@gmail.com">
+ <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/>
+</a>
+
+<a href="https://discord.com/users/338576028731703296"/>
+<img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/>
+</a>
+  <a href="https://www.facebook.com/joe.john.547389">
+ <img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/>
 </a>
