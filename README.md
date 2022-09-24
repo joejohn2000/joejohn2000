@@ -33,3 +33,6 @@
   <a href="https://www.facebook.com/joe.john.547389">
  <img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/>
 </a>
+ <a href="tel:+919633535790">
+ <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="facebook"/>
+</a>
