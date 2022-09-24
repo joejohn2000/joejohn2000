@@ -19,6 +19,10 @@
 - :zap:  I love Meetups for learning & Conferences <br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
+
 <a href="https://www.instagram.com/joe.john_/">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="instagram" title="instagram" width="25" height="25" />
+  <img src=""https://img.icons8.com/color/96/000000/gmail.png"" alt="instagram" title="instagram" width="25" height="25" />
+</a>
+ <a href="https://www.instagram.com/joe.john_/">
+ <img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" title="instagram" width="30" height="30"/>
 </a>
