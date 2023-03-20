@@ -7,7 +7,7 @@
  <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
  
 </h2> 
-<h2 align="left">:hammer_and_wrench: Technologies, Tools and frameworks I use:</h2>
+<h2 align="left">:hammer_and_wrench: Technologies, Tools and frameworks I Know:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,c,cpp,python,java,react,reactjsgit" />
