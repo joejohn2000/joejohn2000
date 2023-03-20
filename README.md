@@ -18,7 +18,7 @@
 
 - :computer: I'm an MCA student
 - :rocket: Always ready to collaborate with a team for WebDev Experiments
-- :zap:  I love Meetups for learning & Conferences <br>
+- :zap:  loves to Meetup for learning & Conferences <br>
 
 
 
