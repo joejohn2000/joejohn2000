@@ -10,7 +10,7 @@
 <h2 align="left">:hammer_and_wrench: Technologies, Tools and frameworks I use:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,c,cpp,python,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,c,cpp,python,java,git" />
   </a>
 </p>
 
