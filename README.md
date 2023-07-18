@@ -1,7 +1,7 @@
 <h2 align="left">
  
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Joe John Parakka. I am software developer<br>
+  <br>Joe John Parakka, an adept software developer, possesses a remarkable knack for crafting elegant code and delivering innovative solutions.<br>
   <br>
    
  <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
