@@ -17,7 +17,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a MCA graduate
+- :computer: I'm an MCA graduate
 - :rocket: Always ready to collaborate with a team for software Experiments
 - :zap:  loves to Meetup for learning & Conferences <br>
 
