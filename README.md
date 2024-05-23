@@ -26,7 +26,7 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 <p align="left">
-  <a href="https://www.instagram.com/joe.john_/">
+  <a href="https://www.instagram.com/__joe.jxn__>
  <img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"height="50px" width="50px"/>
 </a>
   <a href="mailto:joejohnparakka@gmail.com">
